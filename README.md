@@ -72,29 +72,24 @@ The UI combines **functionality** with **modern aesthetics**:
 git clone https://github.com/Jalalkhan96/DataBase-Project.git
 
 # 🛡️ Advanced Query Features
-
 This section outlines advanced query techniques that can help you manage and analyze your data more efficiently.
 
 ## 🔍 **Nested Queries**
-
 Nested queries, also known as subqueries, allow you to retrieve hierarchical and related data in a single query.
 
-
 ## 🔗 Union Queries
-
 Union queries combine the results of multiple `SELECT` queries into a single result set, allowing you to view data from different tables in one consolidated result.
 
 ## 🔄 Mixed Queries
-
 Mixed queries involve combining different query types, such as **joins**, **nested queries**, and **filters**, to analyze complex datasets.
 
 ## 👨‍💻 **Contributors**
-
 This project was collaboratively developed by:
 
 - **Jalal Khan**  
   [GitHub Profile](https://github.com/Jalalkhan96)
 - **Haider Rehman**
+  [GitHub Profile](https://github.com/hadi488)
 
 
 
